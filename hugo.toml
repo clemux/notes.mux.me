@@ -1,0 +1,4 @@
+baseURL = 'https://notes.mux.me/'
+languageCode = 'en-us'
+title = 'Random notes'
+theme = 'basic-mux'
