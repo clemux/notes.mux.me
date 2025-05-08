@@ -18,7 +18,7 @@ I haven't seen any thrips on my Trich seedlings or nearby plants for a week, eve
 
 In my experience, Orius were definitely worth it, but only combined with Ephestia eggs. My plants are in open grow tents. It would be even better in an enclosed cabinet. I'm not sure how well it would work if the plants were fully in the open.
 
-My plan now is to grow pepper plants and keep a few of them in a tent. This is known as keeping "banker plants": plants that you maintain to support a population of predators to protect other plants. Orius can thrive on sweet pepper plants. 
+My plan now is to grow pepper plants and keep a few of them in a tent. This is known as keeping "banker plants": plants that you maintain to support a population of predators to protect other plants. Orius can thrive on sweet pepper plants, feeding on nectar and pollen.
 
 If I had known from the start what I know now, the total cost would have been around 60 euros: 30€ for 100 Orius and shipping from Rootsum, plus 30€ for Ephestia eggs and shipping from Bioplanet. See below for links to suppliers.
 
