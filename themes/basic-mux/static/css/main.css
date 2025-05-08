@@ -48,6 +48,18 @@ p {
   color: var(--color-text-light);
 }
 
+ul,
+ol {
+  margin: 2rem 0;
+  color: var(--color-text-light);
+  padding-left: 2rem;
+}
+
+ul li,
+ol li {
+  margin: 0.5rem 0;
+}
+
 blockquote {
   font-style: normal;
   font-family: "Courier New", Courier, monospace;
