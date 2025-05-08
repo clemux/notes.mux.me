@@ -6,21 +6,22 @@ title = 'Predatory Bugs'
 
 I've tried Neoseiulus (formerly Amblyseius) californicus and cucumeris, but it's hard to say how well they performed. I suspect the relative humidity in my apartment and in my tents is too low; at least 60%, ideally 70% is recommended. I got some californicus because they should tolerate lower humidity, but thrips are not their preferred prey (they are better for spider mites, for example).
 
-Then I tried Chrysopa (lacewing) larvae. They did seem to eat some thrips nymphs (I actually have video proof of that), but I have the feeling they like eating each other even more. They were really fun to watch but eventually I felt that it was *expensively* fun.
+Then I tried Chrysopa (lacewing) larvae. They did seem to eat some thrips nymphs (I actually have video proof of that), but I have the feeling they like eating each other even more. They were really fun to watch, but eventually I felt that it was *expensively* fun.
 
-In February I got 100 Orius. They are small, very fast, and can fly, so I was not able to watch their behavior as I could with the Chrysopa. I moved a few weeks later and didn't find any Orius in the new apartment. I believe I had too few thrips for them to settle, and I did not provide any additional food. As a result, they probably died of cannibalism and then hunger.
+In February, I got 100 Orius. They are small, very fast, and can fly, so I was not able to watch their behavior as I could with the Chrysopa. I moved a few weeks later and didn't find any Orius in the new apartment. I believe I had too few thrips for them to settle, and I did not provide any additional food. As a result, they probably died of cannibalism and then hunger.
 
-In late March, the thrips infestation got quite bad. On a whim, I decided to buy 2000 Orius nymphs as well as Ephestia (flour moth) eggs to feed them. I got some supplies to try to replicate the breeding setups I found in some research papers, with the goal of keeping them alive and breeding separately from the plants. I think I put around a third to half of them in petri dishes and a larger plastic box, and released the others around the plants. A week later I had adults in the enclosures, but they soon died because I did not maintain humidity.
+In late March, the thrips infestation got quite bad. On a whim, I decided to buy 2,000 Orius nymphs as well as Ephestia (flour moth) eggs to feed them. I got some supplies to try to replicate the breeding setups I found in some research papers, with the goal of keeping them alive and breeding separately from the plants. I think I put around a third to half of them in petri dishes and a larger plastic box, and released the others around the plants. A week later, I had adults in the enclosures, but they soon died because I did not maintain humidity.
 
-However, the ones I released in my tent of Trichocereus seedlings matured and actually bred. In mid-April I found newly hatched nymphs.
-
-I'm writing this in early May. I'm still seeing young nymphs, and I don't know whether they hatched later or if they are the third generation.
+However, the ones I released in my tent of Trichocereus seedlings matured and actually bred. In mid-April, I found newly hatched nymphs. I'm writing this in early May. I'm still seeing young nymphs, and I don't know whether they hatched later or if they are the third generation.
 
 I haven't seen any thrips on my Trich seedlings or nearby plants for a week, ever since I watched an Orius nymph eat an adult thrips (I actually managed to make two videos of that, totaling more than one hour until the nymph threw the carcass away).
 
-In my experience, Orius were definitely worth it. However, the Ephestia eggs are required. My plants are in open grow tents. It would be even better in an enclosed cabinet. I'm not sure how well it would work if the plants are fully in the open.
+In my experience, Orius were definitely worth it, but only combined with Ephestia eggs. My plants are in open grow tents. It would be even better in an enclosed cabinet. I'm not sure how well it would work if the plants were fully in the open.
+
+My plan now is to grow pepper plants and keep a few of them in a tent. This is known as keeping "banker plants": plants that you maintain to support a population of predators to protect other plants. Orius can thrive on sweet pepper plants. 
 
 If I had known from the start what I know now, the total cost would have been around 60 euros: 30€ for 100 Orius and shipping from Rootsum, plus 30€ for Ephestia eggs and shipping from Bioplanet. See below for links to suppliers.
+
 I don't think I would recommend predatory mites for cacti and succulents because of the high humidity requirement (except for Amblyseius degenerans which are expensive -- in France at least -- and which I haven't tested). However, I've been keeping cucumeris in my humid propagator where I have seedlings, and Stratiolaelaps scimitus could be good for soil pests when you can keep the substrate moist, like for seedlings. I don't have anything to share regarding their effectiveness.
 
 Chrysopa larvae might be worth it, especially if you have other issues besides thrips: they are more generalist, being particularly effective against aphids and mealybugs. Thrips and spider mites are secondary prey for them.
@@ -29,7 +30,6 @@ Some things I should mention:
 
  - Orius can bite humans; it happened to me twice: sharp, non-lasting pain. Nothing special when you regularly get pricked by cacti. From the research I did, there don't seem to be any risks involved, but maybe some people can have allergic reactions.
  - I believe predatory mites can cause allergic reactions similar to common house dust mites.
-
 
 
 ## Resources
