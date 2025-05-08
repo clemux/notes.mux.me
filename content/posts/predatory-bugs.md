@@ -4,6 +4,10 @@ draft = false
 title = 'Predatory Bugs'
 +++
 
+Status: draft
+
+This is a quick recap of my experience with biological control against thrips. I don't have experience with other pests.
+
 I've tried Neoseiulus (formerly Amblyseius) californicus and cucumeris, but it's hard to say how well they performed. I suspect the relative humidity in my apartment and in my tents is too low; at least 60%, ideally 70% is recommended. I got some californicus because they should tolerate lower humidity, but thrips are not their preferred prey (they are better for spider mites, for example).
 
 Then I tried Chrysopa (lacewing) larvae. They did seem to eat some thrips nymphs (I actually have video proof of that), but I have the feeling they like eating each other even more. They were really fun to watch, but eventually I felt that it was *expensively* fun.
