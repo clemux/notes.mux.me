@@ -6,7 +6,7 @@ title = 'Predatory Bugs'
 
 Status: draft
 
-This is a quick recap of my experience with biological control against thrips. I don't have experience with other pests.
+This post documents my experience using biological control methods against thrips. I focus on growing cacti, which creates a challenge: most predatory insects need high humidity, while cacti require drier conditions. Though I've only dealt with thrips, these observations might help with other pests.
 
 I've tried Neoseiulus (formerly Amblyseius) californicus and cucumeris, but it's hard to say how well they performed. I suspect the relative humidity in my apartment and in my tents is too low; at least 60%, ideally 70% is recommended. I got some californicus because they should tolerate lower humidity, but thrips are not their preferred prey (they are better for spider mites, for example).
 
