@@ -40,15 +40,8 @@ Some things I should mention:
 
 ### Genna's videos
 
-#### Breeding mites
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQ57oeByO38?si=eGlRV5k_hvYBV7Wb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/syXq5D-dhbI?si=NhgyAyTwU8j7g3O2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-#### Thrips (focused on biological methods but not exclusively) 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I3xGu90OADI?si=U8aZrAzdu-mAhItX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Breeding mites [https://www.youtube.com/watch?v=AQ57oeByO38](https://www.youtube.com/watch?v=AQ57oeByO38) and [https://www.youtube.com/watch?v=syXq5D-dhbI](https://www.youtube.com/watch?v=syXq5D-dhbI)
+- Thrips (focused on biological methods but not exclusively) [https://www.youtube.com/watch?v=I3xGu90OADI](https://www.youtube.com/watch?v=I3xGu90OADI)
 
 ### Where to buy
 
